@@ -9,7 +9,12 @@ TMI 2025| (wait for online.）
   
 ## Model-Heterogeneous Semi-Supervised Federated Learning for Medical Image Segmentation
 TMI 2024| [paper](https://ieeexplore.ieee.org/abstract/document/10379169)
+> [**Model-Heterogeneous Semi-Supervised Federated Learning for Medical Image Segmentation**](https://ieeexplore.ieee.org/document/10379169),   <br/>
+> Yuxi Ma, Jiacheng Wang, Jing Yang, Liansheng Wang <br/>
+> In: IEEE Transactions on Medical Imaging (TMI) <br/>
 
+<div align="center" border=> <img src=HSSF/fig/fig1.png width="700" > </div>
+<div align="center" border=> <img src=HSSF/fig/fig2.png width="700" > </div>
 
 ## FedDP: Dual Personalization in Federated Medical Image Segmentation
 TMI 2023| [paper](https://ieeexplore.ieee.org/abstract/document/10194959)
