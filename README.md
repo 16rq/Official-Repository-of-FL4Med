@@ -20,4 +20,4 @@ TMI 2023| [paper](https://ieeexplore.ieee.org/abstract/document/10194959)
 > In: European Conference on Computer Vision (ECCV), 2022  <br/>
 > [[arXiv](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_27)][[Bibetex](https://github.com/jcwang123/FedLC#Citation)][[Supp](https://jcwang123.github.io/assets/pdfs/eccv22/supp.pdf)]
 
-<div align="center" border=> <img src=FedLC/frame.png width="700" > </div>
+<div align="center" border=> <img src=images/fedlc.png width="700" > </div>
