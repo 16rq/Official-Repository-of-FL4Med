@@ -1,0 +1,3 @@
+[submodule "FedLC"]
+	path = FedLC
+	url = https://github.com/jcwang123/FedLC.git
