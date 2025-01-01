@@ -4,3 +4,6 @@
 [submodule "HSSF"]
 	path = HSSF
 	url = https://github.com/YxMa666/HSSF.git
+[submodule "FedMM"]
+	path = FedMM
+	url = https://github.com/haoyuesong176/FedMM.git
