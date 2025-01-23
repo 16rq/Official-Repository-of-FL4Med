@@ -39,3 +39,9 @@ TMI 2023| [paper](https://ieeexplore.ieee.org/abstract/document/10194959)<br/>
 > [[arXiv](https://link.springer.com/chapter/10.1007/978-3-031-19803-8_27)][[Bibetex](https://github.com/jcwang123/FedLC#Citation)][[Supp](https://jcwang123.github.io/assets/pdfs/eccv22/supp.pdf)]
 
 <div align="center" border=> <img src=images/fedlc.png width="700" > </div>
+
+## Federated Self-supervised Domain Generalization for Label-effcient Polyp Segmentation
+> **Xinyi Tan**, Jiacheng Wang, Liansheng Wang <br/>
+> In: Advancing Data Solutions in Medical Imaging AI (ADSMI), 2024  <br/>
+
+<div align="center" border=> <img src=images/SSADA.png width="700" > </div>
