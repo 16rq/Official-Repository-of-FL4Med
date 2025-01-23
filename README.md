@@ -45,3 +45,10 @@ TMI 2023| [paper](https://ieeexplore.ieee.org/abstract/document/10194959)<br/>
 > In: Advancing Data Solutions in Medical Imaging AI (ADSMI), 2024  <br/>
 
 <div align="center" border=> <img src=images/SSADA.png width="700" > </div>
+
+## Communication-Efficient Federated Skin Lesion Classification with Generalizable Dataset Distillation
+> **Yuchen Tian**, Jiacheng Wang, Yueming Jin, Liansheng Wang <br/>
+> In: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023 <br />
+> [[arXiv](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_2)][[Bibetex](https://github.com/Yearsflow/GDD-FL#Citation)]
+
+<div align="center" border=> <img src=images/GDD-FL.png width="700" > </div>
