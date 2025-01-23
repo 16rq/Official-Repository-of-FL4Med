@@ -2,6 +2,12 @@
 ![Image](images/fl4med_logo_05.png)
 This repository provides the papers and code about federated learning for medical imaging (**FL4Med**) from our lab. More details are available on the corresponding websites. We will continue to dedicate ourselves to research in this area and regularly update this repository.
 
+## Summary List
+* Tackling Modality-Heterogeneous Client Drift Holistically for Heterogeneous Multimodal Federated Learning (TMI 2025)
+* Model-Heterogeneous Semi-Supervised Federated Learning for Medical Image Segmentation (TMI 2024)
+* FedDP: Dual Personalization in Federated Medical Image Segmentation (TMI 2023)
+* Personalizing Federated Medical Image Segmentation via Local Calibration (ECCV 2022)
+
 ## Tackling Modality-Heterogeneous Client Drift Holistically for Heterogeneous Multimodal Federated Learning 
 TMI 2025| [paper](https://ieeexplore.ieee.org/document/10816602)
 > [**Tackling Modality-Heterogeneous Client Drift Holistically for Heterogeneous Multimodal Federated Learning**](https://ieeexplore.ieee.org/document/10816602),   <br/>
