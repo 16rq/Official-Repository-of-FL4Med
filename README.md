@@ -7,6 +7,7 @@ This repository provides the papers and code about federated learning for medica
 * Model-Heterogeneous Semi-Supervised Federated Learning for Medical Image Segmentation (TMI 2024)
 * FedDP: Dual Personalization in Federated Medical Image Segmentation (TMI 2023)
 * Personalizing Federated Medical Image Segmentation via Local Calibration (ECCV 2022)
+* Communication-Efficient Federated Skin Lesion Classification with Generalizable Dataset Distillation (MICCAI Workshop 2023)
 
 ## Tackling Modality-Heterogeneous Client Drift Holistically for Heterogeneous Multimodal Federated Learning 
 TMI 2025| [paper](https://ieeexplore.ieee.org/document/10816602)
