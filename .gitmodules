@@ -13,3 +13,6 @@
 [submodule "SSADA"]
 	path = SSADA
 	url = https://github.com/TXY123lalala/ADSMI.git
+[submodule "GDD-FL"]
+	path = GDD-FL
+	url = https://github.com/Yearsflow/GDD-FL
