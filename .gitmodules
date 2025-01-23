@@ -9,4 +9,4 @@
 	url = https://github.com/haoyuesong176/FedMM.git
 [submodule "FedDP"]
 	path = FedDP
-	url = https://github.com/jcwang123/FedDP.git
+	url = git@github.com:jcwang123/FedDP.git
