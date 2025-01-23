@@ -10,3 +10,6 @@
 [submodule "FedDP"]
 	path = FedDP
 	url = git@github.com:jcwang123/FedDP.git
+[submodule "SSADA"]
+	path = SSADA
+	url = https://github.com/TXY123lalala/ADSMI.git
