@@ -27,8 +27,6 @@ TMI 2023| [paper](https://ieeexplore.ieee.org/abstract/document/10194959)<br/>
 > [[Bibetex](https://github.com/jcwang123、FedDP#Citation)]
 <div align="center" border=> <img src=images/feddp.png width="700" > </div>
 
-<div align="center" border=> <img src=images/FL.png width="700" > </div>
-
 ## Personalizing Federated Medical Image Segmentation via Local Calibration
 > **Jiacheng Wang**, Yueming Jin, Liansheng Wang <br/>
 > In: European Conference on Computer Vision (ECCV), 2022  <br/>
