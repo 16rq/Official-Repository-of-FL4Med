@@ -26,6 +26,8 @@ TMI 2023| [paper](https://ieeexplore.ieee.org/abstract/document/10194959)
 > Jiacheng Wang, Yueming Jin, Danail Stoyanov, Liansheng Wang <br/>
 > In: IEEE Transactions on Medical Imaging (TMI) <br/>
 
+<div align="center" border=> <img src=images/FL.png width="700" > </div>
+
 ## Personalizing Federated Medical Image Segmentation via Local Calibration
 > **Jiacheng Wang**, Yueming Jin, Liansheng Wang <br/>
 > In: European Conference on Computer Vision (ECCV), 2022  <br/>
