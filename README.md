@@ -21,7 +21,11 @@ TMI 2024| [paper](https://ieeexplore.ieee.org/abstract/document/10379169)
 <div align="center" border=> <img src=images/HSSF_fig2.png width="700" > </div>
 
 ## FedDP: Dual Personalization in Federated Medical Image Segmentation
-TMI 2023| [paper](https://ieeexplore.ieee.org/abstract/document/10194959)
+TMI 2023| [paper](https://ieeexplore.ieee.org/abstract/document/10194959)<br/>
+> **Jiacheng Wang**, Yueming Jin, Danail Stoyanov, Liansheng Wang <br/>
+> In: IEEE Transactions on Medical Imaging (TMI)  <br/>
+> [[Bibetex](https://github.com/jcwang123、FedDP#Citation)]
+<div align="center" border=> <img src=images/feddp.png width="700" > </div>
 
 
 ## Personalizing Federated Medical Image Segmentation via Local Calibration
